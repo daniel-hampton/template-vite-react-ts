@@ -48,7 +48,9 @@
     "mhutchie.git-graph",
     "bradlc.vscode-tailwindcss",
     "gruntfuggly.todo-tree",
-    "esbenp.prettier-vscode"
+    "esbenp.prettier-vscode",
+    "eamodio.gitlens",
+    "naumovs.color-highlight"
   ],
 
   // Use 'forwardPorts' to make a list of ports inside the container available locally.
